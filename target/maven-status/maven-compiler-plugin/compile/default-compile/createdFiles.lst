@@ -1,0 +1,4 @@
+com/example/todolist/controller/TodoController.class
+com/example/todolist/entity/Todo.class
+com/example/todolist/repository/TodoRepository.class
+com/example/todolist/TodolistApplication.class
